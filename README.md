@@ -24,10 +24,6 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 - 💬 Ask me about **PHP and web development**
 - 📫 How to reach me: [gurkan@anbarli.com.tr](mailto:gurkan@anbarli.com.tr)
 
-## GitHub Stats
-
-![Anbarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anbarli&show_icons=true&theme=radical)
-
 ## Skills
 
 ```bash
